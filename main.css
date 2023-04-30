@@ -85,3 +85,10 @@ section h2{
 #tech{
     background-color:lightblue
 }
+
+.articles article a{
+    background-color: blue;
+    color: aliceblue;
+    padding: 8px;
+    display: inline-block;
+}
